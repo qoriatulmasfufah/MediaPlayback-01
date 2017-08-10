@@ -5,8 +5,8 @@
       
 ## B. Identitas Diri
    - Nama          : Qori'atul Masfufah
-   - Kelas         : XI RPL 1
-   - No. Urut      : 27
+   - Kelas         : XII RPL 6
+   - No. Urut      : 28
    - NIS           : 4805/1524.070
    - Nama Sekolah  : SMK Telkom Malang
 
